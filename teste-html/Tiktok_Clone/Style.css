@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    }
+html{
+    scroll-snap-type: y mandatory;
+}
+body{
+    color: white ;
+    background-color: black;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.app_Videos{
+    position: relative;
+    height: 690px;
+    background-color: white;
+    overflow: scroll;
+    width: 100%;
+    max-width: 400px;
+    scroll-snap-type: y mandatory;
+    border-radius: 20px; 
+}
+.app_Videos::-webkit-scrollbar {
+    display: none;
+}
+.app_Videos{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.Video{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(61, 57, 57);
+    scroll-snap-align: start;
+}
+.video-players{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+
+}
+.videoSidebar{
+    position: absolute;
+    top: 48%;
+    height: 10px;
+    }
+ .videoSidebar .material-icons{
+    font-size: 26px;
+    cursor: pointer;
+ }   
+ .videoSidebar .button{
+    padding: 20px;
+    text-align: center;
+     }
+.videoFooter{
+position: relative;
+bottom: 150px;
+margin-left: 20%;
+color: white;
+display: flex;
+}     
+@keyframes spinTheRecord{
+    from{        transform: rotate(0deg);
+            }
+            to{                transform: rotate(360deg);
+            }
+}
+.videoFooter_record{
+    animation: spinTherecord infinite 5s linear;
+    height: 50px;
+    filter: invert(1);
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+}
+.videoFooter_text{
+    flex: 1;
+    }
+.videoFooter_text h3 {
+padding-bottom: 20px;
+
+}
+.videoFooter_icons{
+    position: absolute;
+    }
+.videoFooter_ticker{
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+.videoFooter_ticker marquee{
+    height: fit-content;
+    margin-left: 30px;
+    width: 60%;
+}
+.videoFooter_description{
+    padding-bottom: 20px;
+
+}
+@media(max-width: 420px){
+    .app_Videos{
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        border-radius: 0;
+    }
+}

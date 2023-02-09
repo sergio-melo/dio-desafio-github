@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+    <meta charset="UTF-8">
+    <META http-equiv="x-ua-Compatible" content="IE-edge">
+    <title>TikTok</title>
+    <link rel="stylesheet" href="Style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <div class="app_Videos">
+
+            <!--Inicio do video-->
+        <div class="Video">
+            <Video clss="video_players"src="video01.mp4"></video>
+            
+<!--Inicio rolagem video-->
+<div class="ideoSidebar">
+    <div class="videoSidebar_button">
+        <span class="material-icons"> favorite_border </span>
+        <p>100k</p>
+    </div>
+    <div class="videoSidebar_button">
+        <span class="material-icons"> message </span>
+        <p>45</p>
+    </div>
+    <div class="videoSidebar_button">
+        <span class="material-icons"> share </span>
+        <p>250</p>
+    </div>
+</div> <!--Fim do Sidebar-->
+
+    <!-- inicio footer-->
+<div class="videoFooter">
+    <div class="videoFooter_text">
+        <h3> Sergio Melo </h3>
+        <p class="videoFooter_description">TikTok Clone</p>
+    </div>
+    <div class="videoFooter_ticker">
+        <span class="material-icons videoFooter_icons"> Music:</span>
+        <marquee>Song_Name</marquee>
+    </div>
+    <img src="http://static.thenounproject.com/png/934821-200.png" alt="Disc" class="videoFooter_record">
+
+  </div>
+</div>
+
+    <script>
+        const Videos= document.querySelectorAll('Video')
+
+        for(const Video of Videos){
+            Video.addEventListener('click', function (){
+                console.log('cliked');
+                if (Video.paused){
+                    Video.play();
+                                    } else {
+                                        Video.pause();
+                                    }
+            })
+        }
+    </script>
+ 
+
+    </body>
+
+</html>

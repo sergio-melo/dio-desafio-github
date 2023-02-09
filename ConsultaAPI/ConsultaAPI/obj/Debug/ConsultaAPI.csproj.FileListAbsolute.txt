@@ -1,0 +1,15 @@
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe.config
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.pdb
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.dll
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.pdb
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.AssemblyReference.cache
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.AboutBox1.resources
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.FrmMain.resources
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.Properties.Resources.resources
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.GenerateResource.cache
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CoreCompileInputs.cache
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CopyComplete
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.exe
+C:\Users\sergio.batista\OneDrive - LTM Office365\Documentos\DIVERSOS\CURSO C#\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.pdb
